@@ -1,0 +1,48 @@
+{
+  "A1": {
+    "1": {"topic": "Les nombres", "query": "site:youtube.com Les nombres cours français ", "link": "https://www.youtube.com/watch?v=juqHxdEF0dU"},
+    "2": {"topic": "Les nombres cardinaux", "query": "site:youtube.com Les nombres cardinaux français ", "link": "https://www.youtube.com/watch?v=q5_xDaB4uUk"},
+    "3": {"topic": "Les nombres ordinaux", "query": "site:youtube.com Les nombres ordinaux français ", "link": "https://www.youtube.com/watch?v=MoAlw0i3mAY"},
+    "4": {"topic": "Les nombres approximatifs", "query": "site:youtube.com Les nombres approximatifs français ", "link": "https://www.youtube.com/watch?v=E9Mcz9Syi74"},
+    "5": {"topic": "L'heure", "query": "site:youtube.com L'heure cours français ", "link": "https://www.youtube.com/watch?v=SO91-AInWwo"},
+    "6": {"topic": "Jours, mois, saisons, dates", "query": "site:youtube.com Jours, mois, saisons, dates cours français ", "link": "https://www.youtube.com/watch?v=rKNRl9gK7TA"},
+    "7": {"topic": "Verbes se terminant en -ir", "query": "site:youtube.com Verbes se terminant en -ir cours français ", "link": "https://www.youtube.com/watch?v=IbgI1xlqDRY"},
+    "8": {"topic": "Verbes se terminant en -re", "query": "site:youtube.com Verbes se terminant en -re cours français ", "link": "https://www.youtube.com/watch?v=94GZJjxGslE"},
+    "9": {"topic": "La forme négative", "query": "site:youtube.com La forme négative français ", "link": "https://www.youtube.com/watch?v=ygO9WmfZUyA"},
+    "10": {"topic": "La forme interrogative", "query": "site:youtube.com La forme interrogative cours français ", "link": "https://www.youtube.com/watch?v=A_wePDr8ABo"},
+    "11": {"topic": "Les articles définis", "query": "site:youtube.com Les articles définis cours français ", "link": "https://www.youtube.com/watch?v=aFVkq3jQH9o"},
+    "12": {"topic": "Les articles indéfinis", "query": "site:youtube.com Les articles indéfinis français ", "link": "https://www.youtube.com/watch?v=V5QjHH3mVhQ"},
+    "13": {"topic": "Les articles partitifs", "query": "site:youtube.com Les articles partitifs français ", "link": "https://www.youtube.com/watch?v=Q_UJbY12j_s"}
+  },
+  "A2": {
+    "14": {"topic": "La conjugaison des verbes en -er au présent", "query": "site:youtube.com La conjugaison des verbes en -er au présent cours français ", "link": "https://www.youtube.com/watch?v=7E9TLoV9zak"},
+    "15": {"topic": "La conjugaison des verbes en -ir au présent", "query": "site:youtube.com La conjugaison des verbes en -ir au présent cours français ", "link": "https://www.youtube.com/watch?v=hlg6Y71EZS0"},
+    "16": {"topic": "La conjugaison des verbes en -re au présent", "query": "site:youtube.com La conjugaison des verbes en -re au présent cours français ", "link": "https://www.youtube.com/watch?v=IbgI1xlqDRY"},
+    "17": {"topic": "Les pronoms sujets", "query": "site:youtube.com Les pronoms sujets cours français ", "link": "https://www.youtube.com/watch?v=tdj--ka0siE"},
+    "18": {"topic": "Les pronoms objets", "query": "site:youtube.com Les pronoms objets cours français ", "link": "https://www.youtube.com/watch?v=jztyPPbwQ3c"},
+    "19": {"topic": "Les pronoms possessifs", "query": "site:youtube.com Les pronoms possessifs cours français ", "link": "https://www.youtube.com/watch?v=79KJQcy76Eo"},
+    "20": {"topic": "Les adjectifs (accord et placement)", "query": "site:youtube.com Les adjectifs (accord et placement) cours français ", "link": "https://www.youtube.com/watch?v=2vCABG_X6ug"},
+    "21": {"topic": "Les prépositions courantes et leur utilisation", "query": "site:youtube.com Les prépositions courantes et leur utilisation cours français ", "link": "https://www.youtube.com/watch?v=unVsmRkramQ"},
+    "22": {"topic": "Les adverbes (formation et placement)", "query": "site:youtube.com Les adverbes (formation et placement) cours français ", "link": "https://www.youtube.com/watch?v=QmDqNJ5FETI"}
+  },
+  "B1": {
+    "23": {"topic": "Le passé composé des verbes conjugués avec avoir et être", "query": "site:youtube.com Passé composé avec avoir et être français ", "link": "https://www.youtube.com/watch?v=dH82lWRAOpQ"},
+    "24": {"topic": "Le passé composé des verbes pronominaux", "query": "site:youtube.com Passé composé verbes pronominaux français ", "link": "https://www.youtube.com/watch?v=qISAHEGxMWk"},
+    "25": {"topic": "Les usages du passé composé", "query": "site:youtube.com Usages du passé composé français ", "link": "https://www.youtube.com/watch?v=xSIv30jdo50"},
+    "26": {"topic": "L'imparfait", "query": "site:youtube.com Imparfait français ", "link": "https://www.youtube.com/watch?v=1DxkoGGRbFI"},
+    "27": {"topic": "Les temps du futur", "query": "site:youtube.com Temps du futur français ", "link": "https://www.youtube.com/watch?v=LOyWNgU5B7w"},
+    "28": {"topic": "Le conditionnel", "query": "site:youtube.com Conditionnel français ", "link": "https://www.youtube.com/watch?v=XhF9TCjAJ78"},
+    "29": {"topic": "Les pronoms compléments d'objet directs", "query": "site:youtube.com Les pronoms compléments d'objet directs cours français ", "link": "https://www.youtube.com/watch?v=oKjDI4CLRM0"},
+    "30": {"topic": "Les pronoms compléments d'objet indirects", "query": "site:youtube.com Les pronoms compléments d'objet indirects cours français ", "link": "https://www.youtube.com/watch?v=ias_lZDHeCg"},
+    "31": {"topic": "Les pronoms compléments y et en", "query": "site:youtube.com Les pronoms compléments y et en cours français ", "link": "https://www.youtube.com/watch?v=obqfmQpSbao"},
+    "32": {"topic": "La formation du subjonctif", "query": "site:youtube.com La formation du subjonctif cours français ", "link": "https://www.youtube.com/watch?v=50wuiuvRBcQ"}
+  },
+  "B2": {
+    "33": {"topic": "Le plus-que-parfait et le passé simple", "query": "site:youtube.com Plus-que-parfait passé simple français ", "link": "https://www.youtube.com/watch?v=qX4ODPUVNl4"},
+    "34": {"topic": "Le subjonctif", "query": "site:youtube.com Subjonctif français ", "link": "https://www.youtube.com/watch?v=50wuiuvRBcQ"},
+    "35": {"topic": "Pronoms personnels", "query": "site:youtube.com Pronoms personnels français ", "link": "https://www.youtube.com/watch?v=7gp-sk1vroo"},
+    "36": {"topic": "Expressions négatives", "query": "site:youtube.com Expressions négatives français ", "link": "https://www.youtube.com/watch?v=ygO9WmfZUyA"},
+    "37": {"topic": "L'infinitif", "query": "site:youtube.com Infinitif français ", "link": "https://www.youtube.com/watch?v=V9_jml4AbaE"},
+    "38": {"topic": "Les comparatifs et superlatif des adjectifs et adverbes", "query": "site:youtube.com Les comparatifs des adjectifs et adverbes cours français ", "link": "https://www.youtube.com/watch?v=IHLQuPsC4pE"}
+  }
+}
